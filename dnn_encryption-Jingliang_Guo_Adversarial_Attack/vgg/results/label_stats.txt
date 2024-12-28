@@ -1,0 +1,309 @@
+=== Label Statistics ===
+
+Per Label Statistics:
+Label 001:
+  Number of unique predicted labels: 110
+  Total number of incorrect predictions: 600
+Label 002:
+  Number of unique predicted labels: 172
+  Total number of incorrect predictions: 600
+Label 003:
+  Number of unique predicted labels: 122
+  Total number of incorrect predictions: 600
+Label 004:
+  Number of unique predicted labels: 104
+  Total number of incorrect predictions: 600
+Label 005:
+  Number of unique predicted labels: 163
+  Total number of incorrect predictions: 600
+Label 006:
+  Number of unique predicted labels: 148
+  Total number of incorrect predictions: 600
+Label 007:
+  Number of unique predicted labels: 116
+  Total number of incorrect predictions: 600
+Label 008:
+  Number of unique predicted labels: 166
+  Total number of incorrect predictions: 600
+Label 009:
+  Number of unique predicted labels: 89
+  Total number of incorrect predictions: 600
+Label 010:
+  Number of unique predicted labels: 247
+  Total number of incorrect predictions: 600
+Label 011:
+  Number of unique predicted labels: 110
+  Total number of incorrect predictions: 600
+Label 012:
+  Number of unique predicted labels: 96
+  Total number of incorrect predictions: 600
+Label 013:
+  Number of unique predicted labels: 172
+  Total number of incorrect predictions: 600
+Label 014:
+  Number of unique predicted labels: 183
+  Total number of incorrect predictions: 600
+Label 015:
+  Number of unique predicted labels: 120
+  Total number of incorrect predictions: 600
+Label 016:
+  Number of unique predicted labels: 108
+  Total number of incorrect predictions: 600
+Label 017:
+  Number of unique predicted labels: 120
+  Total number of incorrect predictions: 600
+Label 018:
+  Number of unique predicted labels: 165
+  Total number of incorrect predictions: 600
+Label 019:
+  Number of unique predicted labels: 168
+  Total number of incorrect predictions: 600
+Label 020:
+  Number of unique predicted labels: 146
+  Total number of incorrect predictions: 600
+Label 021:
+  Number of unique predicted labels: 149
+  Total number of incorrect predictions: 600
+Label 022:
+  Number of unique predicted labels: 123
+  Total number of incorrect predictions: 600
+Label 023:
+  Number of unique predicted labels: 209
+  Total number of incorrect predictions: 600
+Label 024:
+  Number of unique predicted labels: 153
+  Total number of incorrect predictions: 600
+Label 025:
+  Number of unique predicted labels: 168
+  Total number of incorrect predictions: 600
+Label 026:
+  Number of unique predicted labels: 221
+  Total number of incorrect predictions: 599
+Label 027:
+  Number of unique predicted labels: 142
+  Total number of incorrect predictions: 600
+Label 028:
+  Number of unique predicted labels: 171
+  Total number of incorrect predictions: 600
+Label 029:
+  Number of unique predicted labels: 177
+  Total number of incorrect predictions: 600
+Label 030:
+  Number of unique predicted labels: 159
+  Total number of incorrect predictions: 600
+Label 031:
+  Number of unique predicted labels: 172
+  Total number of incorrect predictions: 600
+Label 032:
+  Number of unique predicted labels: 98
+  Total number of incorrect predictions: 600
+Label 033:
+  Number of unique predicted labels: 143
+  Total number of incorrect predictions: 600
+Label 034:
+  Number of unique predicted labels: 151
+  Total number of incorrect predictions: 600
+Label 035:
+  Number of unique predicted labels: 123
+  Total number of incorrect predictions: 600
+Label 036:
+  Number of unique predicted labels: 146
+  Total number of incorrect predictions: 600
+Label 037:
+  Number of unique predicted labels: 174
+  Total number of incorrect predictions: 595
+Label 038:
+  Number of unique predicted labels: 118
+  Total number of incorrect predictions: 600
+Label 039:
+  Number of unique predicted labels: 153
+  Total number of incorrect predictions: 600
+Label 040:
+  Number of unique predicted labels: 112
+  Total number of incorrect predictions: 600
+Label 041:
+  Number of unique predicted labels: 118
+  Total number of incorrect predictions: 600
+Label 042:
+  Number of unique predicted labels: 174
+  Total number of incorrect predictions: 600
+Label 043:
+  Number of unique predicted labels: 178
+  Total number of incorrect predictions: 579
+Label 044:
+  Number of unique predicted labels: 169
+  Total number of incorrect predictions: 600
+Label 045:
+  Number of unique predicted labels: 131
+  Total number of incorrect predictions: 600
+Label 046:
+  Number of unique predicted labels: 127
+  Total number of incorrect predictions: 600
+Label 047:
+  Number of unique predicted labels: 132
+  Total number of incorrect predictions: 600
+Label 048:
+  Number of unique predicted labels: 86
+  Total number of incorrect predictions: 600
+Label 049:
+  Number of unique predicted labels: 130
+  Total number of incorrect predictions: 600
+Label 050:
+  Number of unique predicted labels: 146
+  Total number of incorrect predictions: 600
+Label 051:
+  Number of unique predicted labels: 124
+  Total number of incorrect predictions: 600
+Label 052:
+  Number of unique predicted labels: 162
+  Total number of incorrect predictions: 600
+Label 053:
+  Number of unique predicted labels: 116
+  Total number of incorrect predictions: 600
+Label 054:
+  Number of unique predicted labels: 173
+  Total number of incorrect predictions: 600
+Label 055:
+  Number of unique predicted labels: 158
+  Total number of incorrect predictions: 600
+Label 056:
+  Number of unique predicted labels: 139
+  Total number of incorrect predictions: 600
+Label 057:
+  Number of unique predicted labels: 91
+  Total number of incorrect predictions: 600
+Label 058:
+  Number of unique predicted labels: 221
+  Total number of incorrect predictions: 600
+Label 059:
+  Number of unique predicted labels: 156
+  Total number of incorrect predictions: 600
+Label 060:
+  Number of unique predicted labels: 126
+  Total number of incorrect predictions: 600
+Label 061:
+  Number of unique predicted labels: 107
+  Total number of incorrect predictions: 600
+Label 062:
+  Number of unique predicted labels: 145
+  Total number of incorrect predictions: 599
+Label 063:
+  Number of unique predicted labels: 191
+  Total number of incorrect predictions: 600
+Label 064:
+  Number of unique predicted labels: 113
+  Total number of incorrect predictions: 600
+Label 065:
+  Number of unique predicted labels: 151
+  Total number of incorrect predictions: 594
+Label 066:
+  Number of unique predicted labels: 91
+  Total number of incorrect predictions: 600
+Label 067:
+  Number of unique predicted labels: 132
+  Total number of incorrect predictions: 600
+Label 068:
+  Number of unique predicted labels: 207
+  Total number of incorrect predictions: 600
+Label 069:
+  Number of unique predicted labels: 142
+  Total number of incorrect predictions: 600
+Label 070:
+  Number of unique predicted labels: 104
+  Total number of incorrect predictions: 600
+Label 071:
+  Number of unique predicted labels: 95
+  Total number of incorrect predictions: 600
+Label 072:
+  Number of unique predicted labels: 119
+  Total number of incorrect predictions: 600
+Label 073:
+  Number of unique predicted labels: 131
+  Total number of incorrect predictions: 600
+Label 074:
+  Number of unique predicted labels: 88
+  Total number of incorrect predictions: 600
+Label 075:
+  Number of unique predicted labels: 119
+  Total number of incorrect predictions: 600
+Label 076:
+  Number of unique predicted labels: 138
+  Total number of incorrect predictions: 600
+Label 077:
+  Number of unique predicted labels: 117
+  Total number of incorrect predictions: 600
+Label 078:
+  Number of unique predicted labels: 76
+  Total number of incorrect predictions: 600
+Label 079:
+  Number of unique predicted labels: 119
+  Total number of incorrect predictions: 600
+Label 080:
+  Number of unique predicted labels: 143
+  Total number of incorrect predictions: 600
+Label 081:
+  Number of unique predicted labels: 144
+  Total number of incorrect predictions: 600
+Label 082:
+  Number of unique predicted labels: 118
+  Total number of incorrect predictions: 600
+Label 083:
+  Number of unique predicted labels: 173
+  Total number of incorrect predictions: 600
+Label 084:
+  Number of unique predicted labels: 142
+  Total number of incorrect predictions: 600
+Label 085:
+  Number of unique predicted labels: 128
+  Total number of incorrect predictions: 600
+Label 086:
+  Number of unique predicted labels: 112
+  Total number of incorrect predictions: 600
+Label 087:
+  Number of unique predicted labels: 204
+  Total number of incorrect predictions: 598
+Label 088:
+  Number of unique predicted labels: 81
+  Total number of incorrect predictions: 600
+Label 089:
+  Number of unique predicted labels: 139
+  Total number of incorrect predictions: 600
+Label 090:
+  Number of unique predicted labels: 102
+  Total number of incorrect predictions: 600
+Label 091:
+  Number of unique predicted labels: 81
+  Total number of incorrect predictions: 600
+Label 092:
+  Number of unique predicted labels: 126
+  Total number of incorrect predictions: 600
+Label 093:
+  Number of unique predicted labels: 112
+  Total number of incorrect predictions: 600
+Label 094:
+  Number of unique predicted labels: 122
+  Total number of incorrect predictions: 600
+Label 095:
+  Number of unique predicted labels: 120
+  Total number of incorrect predictions: 600
+Label 096:
+  Number of unique predicted labels: 95
+  Total number of incorrect predictions: 600
+Label 097:
+  Number of unique predicted labels: 94
+  Total number of incorrect predictions: 600
+Label 098:
+  Number of unique predicted labels: 175
+  Total number of incorrect predictions: 600
+Label 099:
+  Number of unique predicted labels: 117
+  Total number of incorrect predictions: 600
+Label 100:
+  Number of unique predicted labels: 155
+  Total number of incorrect predictions: 596
+
+Overall Statistics:
+Average number of unique labels: 138.12
+Average number of incorrect predictions: 599.60
+Max number of unique labels: 247
+Max number of incorrect predictions: 600
